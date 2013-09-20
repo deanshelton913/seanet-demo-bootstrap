@@ -3,7 +3,7 @@ Prerequisites
 * Be connected to the internet.
 * MTN github user with github installed.
 * ruby 1.9.3 installed.
-
+* Should NOT have any applications occupying ports 4567, or 3000
 
 
 To Start
