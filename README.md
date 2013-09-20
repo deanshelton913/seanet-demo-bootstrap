@@ -1,12 +1,12 @@
 Prerequisites 
 ================
-* be connected to the internet.
+* Be connected to the internet.
 * MTN github user with github installed.
 * ruby 1.9.3 installed.
 
 
 
-To start
+To Start
 ================
 * Connect to the internet 
 * run: `sh seanet-demo-bootstrap.sh`
