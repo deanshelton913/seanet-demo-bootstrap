@@ -8,7 +8,6 @@ Prerequisites
 
 To Start
 ================
-* Connect to the internet 
 * run: `sh seanet-demo-bootstrap.sh`
 
 
