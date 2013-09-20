@@ -15,4 +15,4 @@ To start
 
 To Reset
 ================
-* run: `sh reset-and-restart.sh`
+* run: `sh reset.sh`
