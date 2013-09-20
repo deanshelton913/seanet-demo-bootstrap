@@ -9,6 +9,8 @@ Prerequisites
 To Start
 ================
 * run: `sh seanet-demo-bootstrap.sh`
+* open INCOGNITO chrome browser window. (CMD+SHIFT+N)
+* navigate to http://localhost:4567
 
 
 
